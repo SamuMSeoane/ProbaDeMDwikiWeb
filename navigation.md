@@ -1,0 +1,10 @@
+[gimmick:themechooser](Choose theme)
+
+[Español](index.md)
+[Galego](galego.md)
+[Català](catala.md)
+[English](english.md)
+[Deutsch](deutsch.md)
+[Português](portugues.md)
+[Italiano](italiano.md)
+[Français](francais.md)
