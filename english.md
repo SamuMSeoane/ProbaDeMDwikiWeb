@@ -108,6 +108,9 @@ Please contact us and we'll study your project and send you a personal estimate,
 To discuss your specifics needs or for further information, please contact the professionals at Rosetta, without obligation.
 
 [gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Ronda de Don Bosco 30, Vigo, Spain)
+
+<br>
+
 [gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Colloseum, Rome, Italy)
 
 Rosetta Traducción, Interpretación e Servicios Lingüísticos SLL
