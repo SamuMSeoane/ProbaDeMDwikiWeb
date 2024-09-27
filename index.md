@@ -107,7 +107,9 @@ Le invitamos a ponerse e contacto con nosotros para que estudiemos su proyecto p
 
 Para hablar de sus necesidades concretas o solicitar más información, diríjase sin compromiso al equipo de profesionales de Rosetta.
 
-[gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Ronda de Don Bosco, 30, Vigo, Spain)
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2954.043204963049!2d-8.72523202347783!3d42.23488994299962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2f626b981bc823%3A0x647456fd3cbe29be!2sRonda%20de%20Don%20Bosco%2C%2030%2C%20Santiago%20de%20Vigo%2C%2036203%20Vigo%2C%20Pontevedra!5e0!3m2!1ses!2ses!4v1727477964429!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
 
 Rosetta Traducción, Interpretación e Servicios Lingüísticos SLL
 Ronda de Don Bosco, 30, 3ºA
